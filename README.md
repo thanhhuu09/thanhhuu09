@@ -69,6 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### :writing_hand: Projects I do :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhhuu09&repo=TodoList&theme=light)](https://github.com/thanhhuu09/ToDoList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhhuu09&repo=DrumKit&theme=light)](https://github.com/thanhhuu09/drumkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhhuu09&repo=Simon&theme=light)](https://github.com/thanhhuu09/simon)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=Android-NoteApp&theme=light)](https://github.com/thanhhuu09/Android-NoteApp)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=Manage-Staff&theme=light)](https://github.com/thanhhuu09/Manage-Staff)
+
