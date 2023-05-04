@@ -75,6 +75,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Projects I do :
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=tindog&theme=light)](https://github.com/thanhhuu09/tindog)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=hocgihomnay&theme=light)](https://github.com/thanhhuu09/hocgihomnay)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=TodoList&theme=light)](https://github.com/thanhhuu09/ToDoList)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=DrumKit&theme=light)](https://github.com/thanhhuu09/drumkit)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=thanhhuu09&repo=Simon&theme=light)](https://github.com/thanhhuu09/simon)
