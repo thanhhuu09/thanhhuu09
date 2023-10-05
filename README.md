@@ -24,17 +24,10 @@ Here are some ideas to get you started:
 </div>
  <img src="https://komarev.com/ghpvc/?username=thanhhuu09&style=flat-square&color=blue" alt=""/>
  <h1>
-  hey there
+  Xin Chào
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ4NGZhYzg1OGY2ODBkNTdmNDY0OTY3NWQ0MzQ2OWUzNWJmNTcxOSZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-
-----
-
 
 ### :man_technologist: About Me : 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
