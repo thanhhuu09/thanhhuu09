@@ -17,7 +17,7 @@ I'm Huu, a recent Computer Science graduate with a passion for software developm
 
 ## Get in Touch 📫
 
-- 🌐 [Personal Website](tthuu.vercel.app)
+- 🌐 [Personal Website](https://tthuu.vercel.app/)
 - 📧 Email: thanhhuu.tech@gmail.com
 
 ## Let's Connect! 🤝
